@@ -1,0 +1,1 @@
+CREATE INDEX `votes_account_round` ON `votes` (`account_id`,`round_id`,`choice`);
