@@ -128,3 +128,8 @@ The portable build runs Vinext directly without a host `timeout` command. The ma
 ### Global account leaderboard
 
 The public page includes ranked and provisional account lists, 20-person pagination, tied competition ranks, exact win-rate ordering, and a session-bound “my position” shortcut. Account names are irreversible pseudonymous labels derived from random account IDs; login IDs and round-by-round choices are not included. Aggregate changes can still reveal information about a pseudonym’s past choice. Guests remain supported without account scoring. Rankings and personal records share the same D1 aggregation and the existing 10-valid-round eligibility/midrank-percentile rule. Additive migration 0003 adds only an index; existing data and immutable releases are preserved. No extra server or paid service is configured.
+
+
+## 라이선스
+
+이 프로젝트의 자체 소스 코드와 문서는 [MIT License](LICENSE)로 공개합니다. 외부 라이브러리·데이터·미디어에는 각 출처의 조건이 적용됩니다. [외부 자료 안내](THIRD_PARTY_NOTICES.md)를 참고하세요.
